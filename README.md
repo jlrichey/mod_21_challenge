@@ -34,6 +34,22 @@ Below are screenshots of the key moments in the compiling, deploying, and use of
 <img src="Evaluation_Evidence/8_contract_deployed_verified.png" alt="drawing" width="200"/>
 <img src="Evaluation_Evidence/10_KaseiCoinCrowdsale_deployed.png" alt="drawing" width="200"/>
 
+
+<table>
+  <tr>
+    <td>
+      <img src="Evaluation_Evidence/5_KaseiCoinCrowdsaleDeployer_w_Ganache_Acct_1.png" alt="KaseiCoinCrowdsaleDeployer with Ganache Account 1" width="200"/>
+    </td>
+    <td>
+      <img src="Evaluation_Evidence/8_contract_deployed_verified.png" alt="Contract Deployed and Verified" width="200"/>
+    </td>
+    <td>
+      <img src="Evaluation_Evidence/10_KaseiCoinCrowdsale_deployed.png" alt="KaseiCoinCrowdsale Deployed" width="200"/>
+    </td>
+  </tr>
+</table>
+
+
 ### Buying Tokens for MetaMask `Account 3`
 <img src="Evaluation_Evidence/11_buying_tokens_for_acct3.png" alt="drawing" width="200"/>
 <img src="Evaluation_Evidence/12_MetaMask_after_transact.png" alt="drawing" width="200"/>
