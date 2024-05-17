@@ -43,10 +43,10 @@ Below are screenshots of the key moments in the compiling, deploying, and use of
 <img src="Evaluation_Evidence/18_KAI_showing_MetaMask_acct2.png" alt="drawing" width="200"/>
 
 ### Ganache post-transaction blocks
-<img src="Evaluation_Evidence/19_ganache_post_transaction_blocks.png" alt="drawing" width="200"/>
+<img src="Evaluation_Evidence/19_ganache_post_transaction_blocks.png" alt="drawing" width="700"/>
 
 ### Ganache transactions
-<img src="Evaluation_Evidence/20_ganache_transactions.png" alt="drawing" width="200"/>
+<img src="Evaluation_Evidence/20_ganache_transactions.png" alt="drawing" width="700"/>
 
 ## Sources
 The following sources were consulted in the completion of this project. 
