@@ -14,7 +14,7 @@ The coin, crowdsale, and deployment contracts will be developed in the Solidity 
 * [MetaMask](https://metamask.io/): a popular cryptocurrency wallet and gateway to blockchain applications
 * [OpenZeppelin](https://www.openzeppelin.com/): an open-source framework and library for building secure smart contracts on the Ethereum blockchain
 
-## Application Results
+## Evaluation Evidence
 Below are screenshots of the key moments in the compiling, deploying, and use of the crowdsale application to convert the existing currency to KaseiCoin ("KAI").
 
 ### MetaMask wallet with `Account 2` and `Account 3` from Ganache
