@@ -30,21 +30,16 @@ Below are screenshots of the key moments in the compiling, deploying, and use of
 <img src="Evaluation_Evidence/4_KaseiCoinCrowdsale_Compiled.png" alt="drawing" width="700"/>
 
 ### KaseiCoinCrowdsaleDeployer with Ganache Account 1
-<img src="Evaluation_Evidence/5_KaseiCoinCrowdsaleDeployer_w_Ganache_Acct_1.png" alt="drawing" width="200"/>
-<img src="Evaluation_Evidence/8_contract_deployed_verified.png" alt="drawing" width="200"/>
-<img src="Evaluation_Evidence/10_KaseiCoinCrowdsale_deployed.png" alt="drawing" width="200"/>
-
-
 <table>
   <tr>
     <td>
-      <img src="Evaluation_Evidence/5_KaseiCoinCrowdsaleDeployer_w_Ganache_Acct_1.png" alt="KaseiCoinCrowdsaleDeployer with Ganache Account 1" width="200"/>
+      <img src="Evaluation_Evidence/5_KaseiCoinCrowdsaleDeployer_w_Ganache_Acct_1.png" alt="KaseiCoinCrowdsaleDeployer with Ganache Account 1" width="250"/>
     </td>
     <td>
-      <img src="Evaluation_Evidence/8_contract_deployed_verified.png" alt="Contract Deployed and Verified" width="200"/>
+      <img src="Evaluation_Evidence/8_contract_deployed_verified.png" alt="Contract Deployed and Verified" width="250"/>
     </td>
     <td>
-      <img src="Evaluation_Evidence/10_KaseiCoinCrowdsale_deployed.png" alt="KaseiCoinCrowdsale Deployed" width="200"/>
+      <img src="Evaluation_Evidence/10_KaseiCoinCrowdsale_deployed.png" alt="KaseiCoinCrowdsale Deployed" width="250"/>
     </td>
   </tr>
 </table>
@@ -54,6 +49,20 @@ Below are screenshots of the key moments in the compiling, deploying, and use of
 <img src="Evaluation_Evidence/11_buying_tokens_for_acct3.png" alt="drawing" width="200"/>
 <img src="Evaluation_Evidence/12_MetaMask_after_transact.png" alt="drawing" width="200"/>
 <img src="Evaluation_Evidence/15_KAI_showing_MetaMask_acct3.png" alt="drawing" width="200"/>
+
+<table>
+  <tr>
+    <td>
+      <img src="Evaluation_Evidence/11_buying_tokens_for_acct3.png" alt="Buying Tokens for Account 3" width="250"/>
+    </td>
+    <td>
+      <img src="Evaluation_Evidence/12_MetaMask_after_transact.png" alt="MetaMask After Transaction" width="250"/>
+    </td>
+    <td>
+      <img src="Evaluation_Evidence/15_KAI_showing_MetaMask_acct3.png" alt="KAI Showing MetaMask Account 3" width="250"/>
+    </td>
+  </tr>
+</table>
 
 ### Buying Tokens for MetaMask `Account 2`
 <img src="Evaluation_Evidence/18_KAI_showing_MetaMask_acct2.png" alt="drawing" width="200"/>
