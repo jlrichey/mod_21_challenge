@@ -1,4 +1,4 @@
-pragma solidity ^0.5.5;
+pragma solidity ^0.5.0;
 
 //  Import the following contracts from the OpenZeppelin library:
 //    * `ERC20`
