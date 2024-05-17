@@ -2,7 +2,7 @@
 <img src="Images/application-image.png" alt="drawing" width="800"/>
 
 ## Overview
-For this project I will assume the role of fintech professional developing a monetary system for a new Mars colony. The goal of the challenge is to develop a new cryptocurrency on blockchain technology named **KaseiCoin**. The currency will be a fungible token that is ERC-20 compliant and will be made available through crowdsale for the people moving to Mars to convert their earthly money to the new Martian KaseiCoin ("KAI").
+For this project I will assume the role of a fintech professional developing a monetary system for a new Mars colony. The goal of the challenge is to develop a new cryptocurrency on blockchain technology named **KaseiCoin**. The currency will be a fungible token that is ERC-20 compliant and will be made available through crowdsale for the people moving to Mars to convert their earthly money to the new Martian KaseiCoin ("KAI").
 
 
 ## Technologies
